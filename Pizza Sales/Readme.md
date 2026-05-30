@@ -224,7 +224,7 @@ Reduce delivery delays and improve service during high-volume hours.
 
 ## Main Dashboard
 
-![Domino's Pizza Sales Dashboard](Snapshot%20of%20the%20Dashboard.png)
+![Domino's Pizza Sales Dashboard]([Snapshot%20of%20the%20Dashboard.png](https://github.com/Surajkumar-Analyst/Power-Bi-Projects/blob/main/Pizza%20Sales/Pizza%20Sales%20Dashboard.png))
 
 ---
 
