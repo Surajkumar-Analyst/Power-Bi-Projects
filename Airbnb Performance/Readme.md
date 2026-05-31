@@ -72,7 +72,7 @@ Rather than predicting the future, the goal is to uncover the story hidden in Ai
 
 ## 🔍 Page 3 — Reviews & Trust Analysis
 
-![Executive Overview](https://raw.githubusercontent.com/Surajkumar-Analyst/Power-Bi-Projects/main/Airbnb%20Performance/Executive%20Overview.png)
+![Review & Trust Analysis](https://github.com/Surajkumar-Analyst/Power-Bi-Projects/blob/main/Airbnb%20Performance/Reviews%20%26%20Trust%20Analysis.png)
 
 
 ### Key Highlights
