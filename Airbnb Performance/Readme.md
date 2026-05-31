@@ -1,9 +1,4 @@
 # 🏡 Global Airbnb Performance Dashboard
-
-<p align="center">
-  <img width="900" alt="Airbnb Dashboard Banner" src="demo-banner.png">
-</p>
-
 <p align="center">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
