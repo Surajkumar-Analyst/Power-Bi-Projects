@@ -56,7 +56,7 @@ Rather than predicting the future, the goal is to uncover the story hidden in Ai
 
 ## 🌍 Page 2 — Market & Customer Insights
 
-<img width="100%" src="market-share-page.png">
+![Executive Overview](https://raw.githubusercontent.com/Surajkumar-Analyst/Power-Bi-Projects/main/Airbnb%20Performance/Executive%20Overview.png)
 
 ### Key Highlights
 
@@ -72,7 +72,8 @@ Rather than predicting the future, the goal is to uncover the story hidden in Ai
 
 ## 🔍 Page 3 — Reviews & Trust Analysis
 
-<img width="100%" src="review-analysis-page.png">
+![Executive Overview](https://raw.githubusercontent.com/Surajkumar-Analyst/Power-Bi-Projects/main/Airbnb%20Performance/Executive%20Overview.png)
+
 
 ### Key Highlights
 
