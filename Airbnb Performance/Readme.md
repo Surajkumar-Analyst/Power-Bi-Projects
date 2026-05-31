@@ -56,7 +56,7 @@ Rather than predicting the future, the goal is to uncover the story hidden in Ai
 
 ## 🌍 Page 2 — Market & Customer Insights
 
-![Executive Overview](https://raw.githubusercontent.com/Surajkumar-Analyst/Power-Bi-Projects/main/Airbnb%20Performance/Executive%20Overview.png)
+![Market& Customer insight](https://github.com/Surajkumar-Analyst/Power-Bi-Projects/blob/main/Airbnb%20Performance/Market%20%26%20Customer%20Insights.png)
 
 ### Key Highlights
 
