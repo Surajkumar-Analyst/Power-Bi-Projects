@@ -38,7 +38,7 @@ Rather than predicting the future, the goal is to uncover the story hidden in Ai
 
 ## 🏠 Page 1 — Executive Overview
 
-<img width="100%" src="overview-page.png">
+<img width="100%" src="[overview-page.png](https://github.com/Surajkumar-Analyst/Power-Bi-Projects/blob/main/Airbnb%20Performance/Executive%20Overview.png)">
 
 ### Key Highlights
 
